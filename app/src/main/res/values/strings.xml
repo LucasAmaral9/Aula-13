@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Projeto</string>
+
+    <string name="submit">Enviar</string>
+
+
+    <string name="botao_enviar">Consultar</string>
+    <string name="label_carro_selecione">Selecione Estado: </string>
+
+    <string name="label_carro_estado">Cidade: </string>
+    <string name="label_carro_marca">Marca:</string>
+    <string name="label_carro_preco">Preço Km Livre:</string>
+    <string name="label_carro_precoCon">Preço Km Controlado:</string>
+
+    <string name="label_carro_fabricante">Fabricante: </string>
+    <string-array name="estados_array">
+        <item>São Paulo - SP</item>
+        <item>Guarulhos - SP </item>
+        <item>Rio de Janeiro - RJ</item>
+        <item>Belo Horizonte - MG</item>
+    </string-array>
+    <string name="title_activity_secondary">Lista de carros</string>
+    <string name="txt_lista_carros">Nenhuma cerveja encontrada</string>
+
+    <string name="title_activity_detalhe_carro">Carro escolhido</string>
+    <string name="action_settings">Settings</string>
+    <string name="view_lista_carros">Nenhum carro</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tertiary">TertiaryActivity</string>
+
+</resources>
